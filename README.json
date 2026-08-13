@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gno monorepo",
+          "description": "The official core repo of the project, containing the core libraries, tools, and example Gno code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plan",
+          "description": "The foundational plan for gno.land.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Philosophy",
+          "description": "The fundamental philosophies of gno.land.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        }
+      ],
+      "title": "Official Links"
+    },
+    {
+      "description": "Apps developed by the gno.land team.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GnoChess",
+          "description": "A chess server implementation in Gno, complete with a frontend, faucet & tutorial to develop your own.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-14T18:01:26Z",
+            "owner": "gnoverse",
+            "repo": "gnochess",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meme.land",
+          "description": "An image sharing application built using Gno, React and Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-10T15:09:29Z",
+            "owner": "gnoverse",
+            "repo": "memeland",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOcean",
+          "description": "OpenSea Clone in Gno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-20T21:50:07Z",
+            "owner": "Molaryy",
+            "repo": "openocean",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "Apps developed by the gno.land community.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gnoswap",
+          "description": "The first DEX built on gno.land (currently in beta).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-12T03:27:29Z",
+            "owner": "gnoswap-labs",
+            "repo": "gnoswap",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dSocial",
+          "description": "Experimental social apps, tools, and dApps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T09:32:22Z",
+            "owner": "gnoverse",
+            "repo": "dsocial",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnomputer",
+          "description": "A windowed web workstation for browsing realms, source, and live chain activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:24:39Z",
+            "owner": "moul",
+            "repo": "gnomputer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Community Apps"
+    },
+    {
+      "description": "Tools useful for developing in Gno.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gnodev",
+          "description": "Your Gno development companion, used for local Gno development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnobro",
+          "description": "A terminal UI for browsing and exploring Gno realms, with real-time gnodev integration via WebSocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supernova",
+          "description": "A stress testing tool for the Gno Tendermint2 blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-23T00:34:48Z",
+            "owner": "gnolang",
+            "repo": "supernova",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gno Extension for VS Code",
+          "description": "Official gnoverse-maintained language support for Gno in VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-26T16:07:08Z",
+            "owner": "gnoverse",
+            "repo": "vscode-gno",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tx-indexer",
+          "description": "A TM2 (Tendermint2) chain indexer with GraphQL support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T08:15:24Z",
+            "owner": "gnolang",
+            "repo": "tx-indexer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnopls",
+          "description": "A language server providing editor features like autocompletion, hover, and go-to-definition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T14:25:20Z",
+            "owner": "gnoverse",
+            "repo": "gnopls",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gno.nvim",
+          "description": "Gno language support for NeoVim.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2025-01-31T21:55:41Z",
+            "owner": "x1unix",
+            "repo": "gno.nvim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gno-mcp",
+          "description": "An MCP server and agent skill connecting realms to AI coding assistants like Claude, Cursor, and Gemini CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:11:42Z",
+            "owner": "gnoverse",
+            "repo": "gno-mcp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnovanity",
+          "description": "A command-line tool for generating vanity wallet addresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-30T16:03:56Z",
+            "owner": "gnoverse",
+            "repo": "gnovanity",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gno for Sublime Text",
+          "description": "Gno syntax highlighting for Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-12T02:23:16Z",
+            "owner": "gno-playground",
+            "repo": "gno-sublime-text",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnockpit",
+          "description": "A real-time web dashboard for monitoring validator node health.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T19:10:52Z",
+            "owner": "gnoverse",
+            "repo": "gnockpit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Resources to help you understand how to get around gno.land and use Gno.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Getting Started",
+          "description": "A repo to help you get started with building realms in Gno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-06-26T13:36:51Z",
+            "owner": "gnolang",
+            "repo": "getting-started",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gno-contracts",
+          "description": "A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T00:09:13Z",
+            "owner": "moul",
+            "repo": "gno-contracts",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tutorials, Presentations, Resources"
+    },
+    {
+      "description": "Connecting web2 to the gno.land blockchain.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gnoclient",
+          "description": "A Gno-Go package, allowing you to connect to gno.land chains via Go programs at will.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tm2-js-client",
+          "description": "A TM2 JavaScript client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T06:45:25Z",
+            "owner": "gnolang",
+            "repo": "tm2-js-client",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnonative",
+          "description": "A framework for building and porting gno.land dApps in your native language, with React Native and Expo support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T11:32:30Z",
+            "owner": "gnolang",
+            "repo": "gnonative",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnolang/blog",
+          "description": "client, or how to create custom clients, using the gnoclient package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T03:47:56Z",
+            "owner": "gnolang",
+            "repo": "blog",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gno-js-client",
+          "description": "A Gno JavaScript client library, built upon with additional Gno-specific functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T07:10:33Z",
+            "owner": "gnolang",
+            "repo": "gno-js-client",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "SDKs & Clients"
+    },
+    {
+      "description": "Collections of gno packages providing generic functionality which developers can extend with custom code to create applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "daokit",
+          "description": "Create DAOs that can mirror real-world organizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-07-27T14:51:38Z",
+            "owner": "samouraiworld",
+            "repo": "gnodaokit",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnit",
+          "description": "A composable Git protocol package that lets any realm act as a Git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-29T09:34:08Z",
+            "owner": "gnoverse",
+            "repo": "gnit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "Miscellaneous.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Workshops & Talks",
+          "description": "Slides, videos, and materials to gno.land workshops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-17T19:33:44Z",
+            "owner": "gnolang",
+            "repo": "workshops",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Branding & Assets",
+          "description": "Official logo and assets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-17T08:40:01Z",
+            "owner": "gnolang",
+            "repo": "branding",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legacy Bounties (deprecated)",
+          "description": "Legacy official bounty board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-23T10:47:19Z",
+            "owner": "gnolang",
+            "repo": "bounties",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.\nWe will keep some pull requests open if we're not sure whether those libraries are awesome. You could vote for them by adding :+1: to them.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Older, outdated, or archived items.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keplr Integration",
+          "description": "WIP Integration with the Keplr browser extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:00:54Z",
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"go -> gno\" presentation",
+          "description": "\"Things I wish I knew when I started out with Gno, when coming from a Go background\" by Zack Scholl (2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-17T19:33:44Z",
+            "owner": "gnolang",
+            "repo": "workshops",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gno to Discord",
+          "description": "Send notifications on Discord for new content on the realm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-11T13:25:33Z",
+            "owner": "PoCInnovation",
+            "repo": "PoCLab",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hello Gno!",
+          "description": "A step-by-step workshop on Gno and gno.land's main features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-01-22T11:24:30Z",
+            "owner": "xplrz",
+            "repo": "gnoland-workshop",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tx-exports",
+          "description": "Archived transaction data from past and present gno.land networks (gnoland1, staging, topaz, and the test1-test13 testnets).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:40:47Z",
+            "owner": "gnolang",
+            "repo": "tx-exports",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Zero to gno.land Hero",
+          "description": "A complete 0 to 1 tutorial on building your first dApp in gno.land (2024).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-11T17:25:45Z",
+            "owner": "leohhhn",
+            "repo": "gno-fzgh",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Archive"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:49:20.485Z",
+    "original_repository": "gnoverse/awesome-gno",
+    "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
+    "enhanced_repository": "enhansome/enhansome-gno",
+    "enhanced_repository_description": null,
+    "title": "Awesome gno with stars"
+  }
+}
