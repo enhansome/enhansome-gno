@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         }
       ],
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -169,10 +169,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -349,10 +349,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T06:45:25Z",
+            "last_commit": "2026-08-14T00:31:10Z",
             "owner": "gnolang",
             "repo": "tm2-js-client",
             "stars": 12
@@ -512,10 +512,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:00:54Z",
+            "last_commit": "2026-08-14T03:00:58Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -568,7 +568,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T08:40:47Z",
+            "last_commit": "2026-08-14T08:38:06Z",
             "owner": "gnolang",
             "repo": "tx-exports",
             "stars": 1
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:49:20.485Z",
+    "last_updated": "2026-08-14T08:42:12.017Z",
     "original_repository": "gnoverse/awesome-gno",
     "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
     "enhanced_repository": "enhansome/enhansome-gno",
