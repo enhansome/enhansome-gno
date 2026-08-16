@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         }
       ],
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-14T10:09:04Z",
             "owner": "gnoswap-labs",
             "repo": "gnoswap",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -352,7 +352,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-08-15T07:35:09Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1082
+            "stars": 1081
           }
         },
         {
@@ -568,7 +568,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T04:17:09Z",
+            "last_commit": "2026-08-16T04:23:08Z",
             "owner": "gnolang",
             "repo": "tx-exports",
             "stars": 1
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:50:35.748Z",
+    "last_updated": "2026-08-16T07:52:01.180Z",
     "original_repository": "gnoverse/awesome-gno",
     "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
     "enhanced_repository": "enhansome/enhansome-gno",
