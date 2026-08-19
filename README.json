@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679460854,
             "language": "JavaScript",
             "last_commit": "2024-02-14T18:01:26Z",
             "owner": "gnoverse",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 768143934,
             "language": "TypeScript",
             "last_commit": "2024-10-10T15:09:29Z",
             "owner": "gnoverse",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817933448,
             "language": "TypeScript",
             "last_commit": "2024-08-20T21:50:07Z",
             "owner": "Molaryy",
@@ -106,8 +112,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567085270,
             "language": "Makefile",
-            "last_commit": "2026-08-18T07:07:44Z",
+            "last_commit": "2026-08-19T05:17:22Z",
             "owner": "gnoswap-labs",
             "repo": "gnoswap",
             "stars": 17
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729339042,
             "language": "TypeScript",
             "last_commit": "2026-05-27T09:32:22Z",
             "owner": "gnoverse",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1308628424,
             "language": "TypeScript",
             "last_commit": "2026-08-09T12:24:39Z",
             "owner": "moul",
@@ -154,8 +163,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -168,8 +178,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617052414,
             "language": "Go",
             "last_commit": "2026-02-23T00:34:48Z",
             "owner": "gnolang",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 855828498,
             "language": "TypeScript",
             "last_commit": "2025-09-26T16:07:08Z",
             "owner": "gnoverse",
@@ -210,8 +223,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 731125085,
             "language": "Go",
-            "last_commit": "2026-08-18T07:42:26Z",
+            "last_commit": "2026-08-18T09:06:40Z",
             "owner": "gnolang",
             "repo": "tx-indexer",
             "stars": 11
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 876250274,
             "language": "Go",
             "last_commit": "2026-07-06T14:25:20Z",
             "owner": "gnoverse",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 904548333,
             "language": "Lua",
             "last_commit": "2025-01-31T21:55:41Z",
             "owner": "x1unix",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214698931,
             "language": "Go",
             "last_commit": "2026-08-17T11:09:34Z",
             "owner": "gnoverse",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826554953,
             "language": "Go",
             "last_commit": "2024-10-30T16:03:56Z",
             "owner": "gnoverse",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685859990,
             "language": null,
             "last_commit": "2023-09-12T02:23:16Z",
             "owner": "gno-playground",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184520018,
             "language": "Go",
             "last_commit": "2026-07-24T19:10:52Z",
             "owner": "gnoverse",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 984019031,
             "language": "Makefile",
             "last_commit": "2025-06-26T13:36:51Z",
             "owner": "gnolang",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1309634960,
             "language": "Go",
             "last_commit": "2026-08-07T00:09:13Z",
             "owner": "moul",
@@ -348,8 +370,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -362,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622859728,
             "language": "TypeScript",
             "last_commit": "2026-08-14T00:31:10Z",
             "owner": "gnolang",
@@ -376,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 674593325,
             "language": "C#",
             "last_commit": "2026-07-29T11:32:30Z",
             "owner": "gnolang",
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593691684,
             "language": "Go",
             "last_commit": "2026-08-11T03:47:56Z",
             "owner": "gnolang",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637687447,
             "language": "TypeScript",
             "last_commit": "2026-08-07T07:10:33Z",
             "owner": "gnolang",
@@ -424,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 979315978,
             "language": "Makefile",
             "last_commit": "2026-07-27T14:51:38Z",
             "owner": "samouraiworld",
@@ -438,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072788148,
             "language": "Go",
             "last_commit": "2025-10-29T09:34:08Z",
             "owner": "gnoverse",
@@ -458,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603130629,
             "language": "TypeScript",
             "last_commit": "2025-07-17T19:33:44Z",
             "owner": "gnolang",
@@ -472,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677043992,
             "language": null,
             "last_commit": "2024-07-17T08:40:01Z",
             "owner": "gnolang",
@@ -486,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 897335962,
             "language": null,
             "last_commit": "2025-09-23T10:47:19Z",
             "owner": "gnolang",
@@ -497,11 +529,6 @@
       "title": "Misc"
     },
     {
-      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.\nWe will keep some pull requests open if we're not sure whether those libraries are awesome. You could vote for them by adding :+1: to them.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
       "description": "Older, outdated, or archived items.",
       "items": [
         {
@@ -511,8 +538,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-18T02:55:31Z",
+            "last_commit": "2026-08-19T03:00:53Z",
             "owner": "gnolang",
             "repo": "gno",
             "stars": 1081
@@ -525,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603130629,
             "language": "TypeScript",
             "last_commit": "2025-07-17T19:33:44Z",
             "owner": "gnolang",
@@ -539,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498446730,
             "language": "Go",
             "last_commit": "2022-06-11T13:25:33Z",
             "owner": "PoCInnovation",
@@ -553,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541250916,
             "language": "Dockerfile",
             "last_commit": "2023-01-22T11:24:30Z",
             "owner": "xplrz",
@@ -567,8 +598,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513395287,
             "language": "Go",
-            "last_commit": "2026-08-18T04:23:52Z",
+            "last_commit": "2026-08-19T04:24:04Z",
             "owner": "gnolang",
             "repo": "tx-exports",
             "stars": 1
@@ -581,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778858111,
             "language": null,
             "last_commit": "2024-08-11T17:25:45Z",
             "owner": "leohhhn",
@@ -593,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:00:54.263Z",
+    "last_updated": "2026-08-19T08:00:22.666Z",
     "original_repository": "gnoverse/awesome-gno",
     "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
     "enhanced_repository": "enhansome/enhansome-gno",
