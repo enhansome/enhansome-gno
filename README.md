@@ -67,7 +67,7 @@ related to Gno & gno.land. It serves two main purposes:
 
 *Apps developed by the gno.land community.*
 
-* [Gnoswap](https://github.com/gnoswap-labs/gnoswap) ⭐ 17 | 🐛 17 | 🌐 Makefile | 📅 2026-08-25 - The first DEX built on gno.land (currently in beta).
+* [Gnoswap](https://github.com/gnoswap-labs/gnoswap) ⭐ 17 | 🐛 15 | 🌐 Makefile | 📅 2026-08-25 - The first DEX built on gno.land (currently in beta).
 * [dSocial](https://github.com/gnoverse/dsocial) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-27 - Experimental social apps, tools, and dApps.
 * [Gnomputer](https://github.com/moul/gnomputer) ⭐ 0 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-24 - A windowed web workstation for browsing realms, source, and live chain activity.
 * [Adena Wallet](https://adena.app/) - Friendly wallet that simplifies sending & receiving tokens, staking, NFT storage, and dapp connections.
