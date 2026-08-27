@@ -12,10 +12,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         }
       ],
@@ -113,8 +113,8 @@
           "repo_info": {
             "archived": false,
             "id": 567085270,
-            "language": "Makefile",
-            "last_commit": "2026-08-26T04:46:46Z",
+            "language": "Gno",
+            "last_commit": "2026-08-27T10:09:36Z",
             "owner": "gnoswap-labs",
             "repo": "gnoswap",
             "stars": 17
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -180,10 +180,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -225,7 +225,7 @@
             "archived": false,
             "id": 731125085,
             "language": "Go",
-            "last_commit": "2026-08-25T15:55:17Z",
+            "last_commit": "2026-08-27T05:40:07Z",
             "owner": "gnolang",
             "repo": "tx-indexer",
             "stars": 11
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 1309634960,
             "language": "Go",
-            "last_commit": "2026-08-25T16:31:19Z",
+            "last_commit": "2026-08-26T12:04:34Z",
             "owner": "moul",
             "repo": "gno-contracts",
             "stars": 0
@@ -372,10 +372,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -540,10 +540,10 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-26T03:00:49Z",
+            "last_commit": "2026-08-27T11:23:43Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 513395287,
             "language": "Go",
-            "last_commit": "2026-08-26T04:29:20Z",
+            "last_commit": "2026-08-27T11:40:52Z",
             "owner": "gnolang",
             "repo": "tx-exports",
             "stars": 1
@@ -626,9 +626,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:06:15.284Z",
-    "original_repository": "gnoverse/awesome-gno",
-    "original_repository_id": 491514628,
+    "last_updated": "2026-08-27T11:41:00.213Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 491514628,
+      "language": null,
+      "last_commit": "2026-08-24T10:22:42Z",
+      "owner": "gnoverse",
+      "repo": "awesome-gno",
+      "stars": 59
+    },
     "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
     "enhanced_repository": "enhansome/enhansome-gno",
     "enhanced_repository_description": null,
