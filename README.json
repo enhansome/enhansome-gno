@@ -12,11 +12,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Official Links"
@@ -67,7 +70,8 @@
             "owner": "gnoverse",
             "repo": "gnochess",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "gnoverse",
             "repo": "memeland",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "Molaryy",
             "repo": "openocean",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Apps"
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 567085270,
             "language": "Gno",
-            "last_commit": "2026-08-27T10:09:36Z",
+            "last_commit": "2026-08-28T14:04:03Z",
             "owner": "gnoswap-labs",
             "repo": "gnoswap",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "gnoverse",
             "repo": "dsocial",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -144,11 +152,12 @@
             "archived": false,
             "id": 1308628424,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:27:17Z",
+            "last_commit": "2026-08-27T19:35:02Z",
             "owner": "moul",
             "repo": "gnomputer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Community Apps"
@@ -165,11 +174,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -180,11 +190,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "gnolang",
             "repo": "supernova",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "gnoverse",
             "repo": "vscode-gno",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "gnolang",
             "repo": "tx-indexer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "gnoverse",
             "repo": "gnopls",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "x1unix",
             "repo": "gno.nvim",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "gnoverse",
             "repo": "gno-mcp",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "gnoverse",
             "repo": "gnovanity",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "gno-playground",
             "repo": "gno-sublime-text",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "gnoverse",
             "repo": "gnockpit",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Tools"
@@ -340,7 +360,8 @@
             "owner": "gnolang",
             "repo": "getting-started",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -351,11 +372,12 @@
             "archived": false,
             "id": 1309634960,
             "language": "Go",
-            "last_commit": "2026-08-26T12:04:34Z",
+            "last_commit": "2026-08-28T15:46:56Z",
             "owner": "moul",
             "repo": "gno-contracts",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Tutorials, Presentations, Resources"
@@ -372,11 +394,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "gnolang",
             "repo": "tm2-js-client",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "gnolang",
             "repo": "gnonative",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "gnolang",
             "repo": "blog",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "gnolang",
             "repo": "gno-js-client",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "SDKs & Clients"
@@ -457,7 +484,8 @@
             "owner": "samouraiworld",
             "repo": "gnodaokit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -472,7 +500,8 @@
             "owner": "gnoverse",
             "repo": "gnit",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Frameworks"
@@ -493,7 +522,8 @@
             "owner": "gnolang",
             "repo": "workshops",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -508,7 +538,8 @@
             "owner": "gnolang",
             "repo": "branding",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -523,7 +554,8 @@
             "owner": "gnolang",
             "repo": "bounties",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Misc"
@@ -540,11 +572,12 @@
             "archived": false,
             "id": 334215717,
             "language": "Go",
-            "last_commit": "2026-08-27T17:57:14Z",
+            "last_commit": "2026-08-28T07:02:31Z",
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1081
-          }
+            "stars": 1080
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -559,7 +592,8 @@
             "owner": "gnolang",
             "repo": "workshops",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -574,7 +608,8 @@
             "owner": "PoCInnovation",
             "repo": "PoCLab",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -589,7 +624,8 @@
             "owner": "xplrz",
             "repo": "gnoland-workshop",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -600,11 +636,12 @@
             "archived": false,
             "id": 513395287,
             "language": "Go",
-            "last_commit": "2026-08-27T15:57:15Z",
+            "last_commit": "2026-08-28T16:27:26Z",
             "owner": "gnolang",
             "repo": "tx-exports",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         },
         {
           "node_type": "item",
@@ -619,14 +656,15 @@
             "owner": "leohhhn",
             "repo": "gno-fzgh",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
         }
       ],
       "title": "Archive"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:20:56.297Z",
+    "last_updated": "2026-08-28T19:30:40.072Z",
     "original_repository_info": {
       "archived": false,
       "id": 491514628,
