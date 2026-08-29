@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -42,12 +94,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -64,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly chess dApp in Gno ecosystem",
+            "homepage": "https://gnochess.com",
             "id": 679460854,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-14T18:01:26Z",
+            "open_issues": 44,
             "owner": "gnoverse",
             "repo": "gnochess",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -80,12 +163,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "meme.land: A Gno-powered meme sharing platform where you can share and upvote memes. Built with React and the Gno programming language. ",
+            "homepage": "https://meme.gnoteam.com",
             "id": 768143934,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-10-10T15:09:29Z",
+            "open_issues": 7,
             "owner": "gnoverse",
             "repo": "memeland",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "adena",
+              "dapp",
+              "gno",
+              "gnoland",
+              "meme"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -96,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opensea like using the gnoland blockchain and GRC721",
+            "homepage": null,
             "id": 817933448,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-20T21:50:07Z",
+            "open_issues": 1,
             "owner": "Molaryy",
             "repo": "openocean",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -118,12 +217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core smart contracts (realms) of GnoSwap",
+            "homepage": "http://gnoswap.io/",
             "id": 567085270,
             "language": "Gno",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:04:03Z",
+            "open_issues": 21,
             "owner": "gnoswap-labs",
             "repo": "gnoswap",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -134,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental: Social apps, tools, researchs and dApps on Gno.land",
+            "homepage": null,
             "id": 729339042,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-27T09:32:22Z",
+            "open_issues": 8,
             "owner": "gnoverse",
             "repo": "dsocial",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -150,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://moul.github.io/gnomputer/",
             "id": 1308628424,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:35:02Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:05:54Z",
+            "open_issues": 8,
             "owner": "moul",
             "repo": "gnomputer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -172,12 +286,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -188,12 +328,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -204,12 +370,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small and simple stress testing tool for the Gno Tendermint2 blockchain ⚛️",
+            "homepage": "https://gno.land",
             "id": 617052414,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T00:34:48Z",
+            "open_issues": 12,
             "owner": "gnolang",
             "repo": "supernova",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "blockchain",
+              "gno",
+              "stress-testing",
+              "tendermint2"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -220,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code plugin for the Gno language",
+            "homepage": null,
             "id": 855828498,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-26T16:07:08Z",
+            "open_issues": 21,
             "owner": "gnoverse",
             "repo": "vscode-gno",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -236,12 +417,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal Tendermint2 indexer capable of serving chain data",
+            "homepage": null,
             "id": 731125085,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:59:49Z",
+            "open_issues": 11,
             "owner": "gnolang",
             "repo": "tx-indexer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "gnoland",
+              "hacktoberfest",
+              "indexer",
+              "jsonrpc2",
+              "tendermint2"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -252,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Gno Language Server",
+            "homepage": null,
             "id": 876250274,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-06T14:25:20Z",
+            "open_issues": 17,
             "owner": "gnoverse",
             "repo": "gnopls",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -268,12 +465,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Gno.land integration for NeoVim",
+            "homepage": null,
             "id": 904548333,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-01-31T21:55:41Z",
+            "open_issues": 0,
             "owner": "x1unix",
             "repo": "gno.nvim",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gnolang",
+              "neovim",
+              "neovim-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -284,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server + agent skill that puts your AI agent on gno.land",
+            "homepage": "https://mcp.gno.dev",
             "id": 1214698931,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:28:35Z",
+            "open_issues": 10,
             "owner": "gnoverse",
             "repo": "gno-mcp",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -300,12 +511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to generate gno vanity addresses",
+            "homepage": null,
             "id": 826554953,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-30T16:03:56Z",
+            "open_issues": 0,
             "owner": "gnoverse",
             "repo": "gnovanity",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -316,12 +532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno language syntax highlighting for Sublime Text.",
+            "homepage": null,
             "id": 685859990,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-12T02:23:16Z",
+            "open_issues": 0,
             "owner": "gno-playground",
             "repo": "gno-sublime-text",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -332,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://gnockpit.topaz.testnets.gno.land/",
             "id": 1184520018,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-24T19:10:52Z",
+            "open_issues": 6,
             "owner": "gnoverse",
             "repo": "gnockpit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -354,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to try Gno",
+            "homepage": null,
             "id": 984019031,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2025-06-26T13:36:51Z",
+            "open_issues": 2,
             "owner": "gnolang",
             "repo": "getting-started",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -370,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "moul's gno.land contracts (p/moul, r/moul) — versioned, self-contained, CI-tested against gno master",
+            "homepage": null,
             "id": 1309634960,
             "language": "Go",
-            "last_commit": "2026-08-28T15:46:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:58:51Z",
+            "open_issues": 9,
             "owner": "moul",
             "repo": "gno-contracts",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -392,12 +628,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -408,12 +670,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Tendermint2 JS/TS client (SDK)",
+            "homepage": "https://gno.land",
             "id": 622859728,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:31:10Z",
+            "open_issues": 11,
             "owner": "gnolang",
             "repo": "tm2-js-client",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "client",
+              "gno",
+              "hacktoberfest",
+              "js",
+              "sdk",
+              "tendermint2",
+              "tm2",
+              "ts"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -424,12 +700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop for Gno using your app's native language",
+            "homepage": null,
             "id": 674593325,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T11:32:30Z",
+            "open_issues": 4,
             "owner": "gnolang",
             "repo": "gnonative",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -440,12 +721,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://gno.land/r/gnoland/blog",
             "id": 593691684,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-11T03:47:56Z",
+            "open_issues": 20,
             "owner": "gnolang",
             "repo": "blog",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "tendermint2"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -456,12 +747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gnoland JS / TS Client (SDK)",
+            "homepage": "https://gno.land/",
             "id": 637687447,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:56:03Z",
+            "open_issues": 13,
             "owner": "gnolang",
             "repo": "gno-js-client",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -478,12 +776,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for Building Decentralized Autonomous Organizations (DAOs) in Gnolang",
+            "homepage": null,
             "id": 979315978,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2026-07-27T14:51:38Z",
+            "open_issues": 17,
             "owner": "samouraiworld",
             "repo": "gnodaokit",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dao",
+              "gnoland"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -494,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composable Git protocol implementation as a Gno package (`gno.land/p/demo/gnit`) that enables any realm to become a Git repository.",
+            "homepage": null,
             "id": 1072788148,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-29T09:34:08Z",
+            "open_issues": 0,
             "owner": "gnoverse",
             "repo": "gnit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -516,12 +827,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://www.youtube.com/@_gnoland",
+            "homepage": null,
             "id": 603130629,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-07-17T19:33:44Z",
+            "open_issues": 13,
             "owner": "gnolang",
             "repo": "workshops",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gnoland",
+              "gnolang",
+              "presentations",
+              "slides",
+              "talks",
+              "workshops"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -532,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Branding resources and guidelines for Gno*",
+            "homepage": null,
             "id": 677043992,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-17T08:40:01Z",
+            "open_issues": 1,
             "owner": "gnolang",
             "repo": "branding",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -548,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The gno.land bounties repo is a place to provide detailed information on the gno.land Bounty Program and how to get involved. gno.land bounties can be found on the main Gno repo under the general 'bounty label.' ",
+            "homepage": null,
             "id": 897335962,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-23T10:47:19Z",
+            "open_issues": 0,
             "owner": "gnolang",
             "repo": "bounties",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -570,12 +903,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
             "id": 334215717,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:02:31Z",
+            "open_issues": 557,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -586,12 +945,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://www.youtube.com/@_gnoland",
+            "homepage": null,
             "id": 603130629,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-07-17T19:33:44Z",
+            "open_issues": 13,
             "owner": "gnolang",
             "repo": "workshops",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gnoland",
+              "gnolang",
+              "presentations",
+              "slides",
+              "talks",
+              "workshops"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -602,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 498446730,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-11T13:25:33Z",
+            "open_issues": 0,
             "owner": "PoCInnovation",
             "repo": "PoCLab",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -618,12 +994,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Say hello to gnoland features",
+            "homepage": "https://gnoland.space",
             "id": 541250916,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2023-01-22T11:24:30Z",
+            "open_issues": 2,
             "owner": "xplrz",
             "repo": "gnoland-workshop",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "community",
+              "gno",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -634,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo to keep archive data from Gno testnets.",
+            "homepage": null,
             "id": 513395287,
             "language": "Go",
-            "last_commit": "2026-08-28T16:27:26Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:25:55Z",
+            "open_issues": 7,
             "owner": "gnolang",
             "repo": "tx-exports",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -650,12 +1040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 778858111,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-11T17:25:45Z",
+            "open_issues": 0,
             "owner": "leohhhn",
             "repo": "gno-fzgh",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         }
@@ -664,15 +1059,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:30:40.072Z",
+    "last_updated": "2026-08-29T05:03:52.067Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of great gno.land resources by the community.",
+      "homepage": "https://gno.land/",
       "id": 491514628,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-24T10:22:42Z",
+      "open_issues": 23,
       "owner": "gnoverse",
       "repo": "awesome-gno",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gno",
+        "gnoland",
+        "gnolang",
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "03846fcd46518e457148486b5194843a5878bad6",
     "enhanced_repository": "enhansome/enhansome-gno",
