@@ -99,7 +99,7 @@ related to Gno & gno.land. It serves two main purposes:
 *Resources to help you understand how to get around gno.land and use Gno.*
 
 * [Getting Started](https://github.com/gnolang/getting-started) ⭐ 3 | 🐛 2 | 🌐 Makefile | 📅 2025-06-26 - A repo to help you get started with building realms in Gno.
-* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 0 | 🐛 9 | 🌐 Go | 📅 2026-08-28 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
+* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 0 | 🐛 10 | 🌐 Go | 📅 2026-08-29 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
 * [A gentle introduction to gno.land](https://www.youtube.com/watch?v=hTGeG0z09NU\&t=135s) - An intro presentation into gno.land (2024).
 * [Peer Dev Learning](https://www.youtube.com/playlist?list=PLJZrQikyfMc-kBojXgAojOz4UQPuq4DiY) - A YouTube playlist of gno.land development tutorials by Peer Dev.
 
