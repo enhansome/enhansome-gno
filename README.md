@@ -69,7 +69,7 @@ related to Gno & gno.land. It serves two main purposes:
 
 * [Gnoswap](https://github.com/gnoswap-labs/gnoswap) ⭐ 17 | 🐛 13 | 🌐 Gno | 📅 2026-09-04 - The first DEX built on gno.land (currently in beta).
 * [dSocial](https://github.com/gnoverse/dsocial) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-27 - Experimental social apps, tools, and dApps.
-* [Gnomputer](https://github.com/moul/gnomputer) ⭐ 1 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-04 - A windowed web workstation for browsing realms, source, and live chain activity.
+* [Gnomputer](https://github.com/moul/gnomputer) ⭐ 1 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-04 - A windowed web workstation for browsing realms, source, and live chain activity.
 * [Adena Wallet](https://adena.app/) - Friendly wallet that simplifies sending & receiving tokens, staking, NFT storage, and dapp connections.
 * [Gnolove](https://gnolove.world) - Community leaderboard and contributions analytics for builders of the Gnoland ecosystem.
 * [Zenao](https://zenao.io) - Organize events in seconds then build your resilient community & social organizations.
@@ -108,7 +108,7 @@ related to Gno & gno.land. It serves two main purposes:
 *Connecting web2 to the gno.land blockchain.*
 
 * [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,081 | 🐛 561 | 🌐 Go | 📅 2026-09-04 - A Gno-Go package, allowing you to connect to gno.land chains via Go programs at will.
-* [tm2-js-client](https://github.com/gnolang/tm2-js-client) ⭐ 12 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-04 - A TM2 JavaScript client library.
+* [tm2-js-client](https://github.com/gnolang/tm2-js-client) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-05 - A TM2 JavaScript client library.
 * [gnonative](https://github.com/gnolang/gnonative) ⭐ 10 | 🐛 4 | 🌐 C# | 📅 2026-07-29 - A framework for building and porting gno.land dApps in your native language, with React Native and Expo support.
 * [gnolang/blog](https://github.com/gnolang/blog/tree/main/cmd/gnoblog-cli) ⭐ 9 | 🐛 19 | 🌐 Go | 📅 2026-09-01 - `r/gnoland/blog` client, or how to create custom `gnokey` clients, using the [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,081 | 🐛 561 | 🌐 Go | 📅 2026-09-04 package.
 * [gno-js-client](https://github.com/gnolang/gno-js-client) ⭐ 2 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-04 - A Gno JavaScript client library, built upon `tm2-js` with additional Gno-specific functionality.
@@ -162,7 +162,7 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 * ["go -> gno" presentation](https://github.com/gnolang/workshops/tree/main/presentations/2023-06-26--go-to-gno--schollz) ⭐ 13 | 🐛 13 | 🌐 TypeScript | 📅 2025-07-17 - "Things I wish I knew when I started out with Gno, when coming from a Go background" by Zack Scholl (2023).
 * [Gno to Discord](https://github.com/PoCInnovation/PoCLab) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2022-06-11 - Send notifications on Discord for new content on the `r/demo/boards` realm.
 * [Hello Gno!](https://github.com/xplrz/gnoland-workshop) ⭐ 5 | 🐛 2 | 🌐 Dockerfile | 📅 2023-01-22 - A step-by-step workshop on Gno and gno.land's main features.
-* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 7 | 🌐 Go | 📅 2026-09-04 - Archived transaction data from past and present gno.land networks (gnoland1, staging, topaz, and the test1-test13 testnets).
+* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 7 | 🌐 Go | 📅 2026-09-05 - Archived transaction data from past and present gno.land networks (gnoland1, staging, topaz, and the test1-test13 testnets).
 * [From Zero to gno.land Hero](https://github.com/leohhhn/gno-fzgh/blob/main/README.md) ⭐ 1 | 🐛 0 | 📅 2024-08-11 - A complete 0 to 1 tutorial on building your first dApp in gno.land (2024).
 * [test5.gno.land](https://test5.gno.land/) - Fifth official testnet environment (archive).
 * [test3.gno.land](https://test3.gno.land/) - Third official testnet environment (archive).
@@ -173,4 +173,4 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
