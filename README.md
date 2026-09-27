@@ -100,7 +100,7 @@ related to Gno & gno.land. It serves two main purposes:
 *Resources to help you understand how to get around gno.land and use Gno.*
 
 * [Getting Started](https://github.com/gnolang/getting-started) ⭐ 3 | 🐛 3 | 🌐 Gno | 📅 2026-09-17 - A repo to help you get started with building realms in Gno.
-* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 2 | 🐛 22 | 🌐 Go | 📅 2026-09-26 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
+* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 2 | 🐛 22 | 🌐 Go | 📅 2026-09-27 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
 * [A gentle introduction to gno.land](https://www.youtube.com/watch?v=hTGeG0z09NU\&t=135s) - An intro presentation into gno.land (2024).
 * [Peer Dev Learning](https://www.youtube.com/playlist?list=PLJZrQikyfMc-kBojXgAojOz4UQPuq4DiY) - A YouTube playlist of gno.land development tutorials by Peer Dev.
 
@@ -163,7 +163,7 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 * [Gno to Discord](https://github.com/PoCInnovation/PoCLab) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2022-06-11 - Send notifications on Discord for new content on the `r/demo/boards` realm.
 * [Hello Gno!](https://github.com/xplrz/gnoland-workshop) ⭐ 5 | 🐛 2 | 🌐 Dockerfile | 📅 2023-01-22 - A step-by-step workshop on Gno and gno.land's main features.
 * [meme.land](https://github.com/gnoverse/memeland) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-17 - An image sharing application built using Gno, React and Vue. The hosted front end no longer reaches a chain.
-* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 8 | 🌐 Go | 📅 2026-09-26 - Archived transaction data from past and present gno.land networks, one directory per network.
+* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 8 | 🌐 Go | 📅 2026-09-27 - Archived transaction data from past and present gno.land networks, one directory per network.
 * [From Zero to gno.land Hero](https://github.com/leohhhn/gno-fzgh/blob/main/README.md) ⭐ 1 | 🐛 0 | 📅 2024-08-11 - A complete 0 to 1 tutorial on building your first dApp in gno.land (2024).
 * [Gno Studio Connect](https://gno.studio/connect) - A tool that makes interaction with Gno applications simple. Its network selector only offers retired testnets, so it cannot reach mainnet.
 * The Portal Loop - The rolling testnet that used to serve the gno.land homepage; renamed to Staging, and gno.land now serves mainnet.
@@ -174,4 +174,4 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
