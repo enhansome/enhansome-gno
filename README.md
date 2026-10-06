@@ -88,7 +88,7 @@ related to Gno & gno.land. It serves two main purposes:
 * [gno.nvim](https://github.com/x1unix/gno.nvim) ⚠️ Archived - Gno language support for NeoVim.
 * [gno-mcp](https://github.com/gnoverse/gno-mcp) ⭐ 3 | 🐛 11 | 🌐 Go | 📅 2026-10-05 - An MCP server and agent skill connecting realms to AI coding assistants like Claude, Cursor, and Gemini CLI.
 * [gnovanity](https://github.com/gnoverse/gnovanity) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-10-30 - A command-line tool for generating vanity wallet addresses.
-* [gnoscope](https://github.com/gnoverse/gnoscope) ⭐ 2 | 🐛 4 | 🌐 Go | 📅 2026-10-05 - A fast, minimal block explorer with realm dependency graphs and usage tracking.
+* [gnoscope](https://github.com/gnoverse/gnoscope) ⭐ 2 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - A fast, minimal block explorer with realm dependency graphs and usage tracking.
 * [Gno for Sublime Text](https://github.com/gno-playground/gno-sublime-text) ⭐ 1 | 🐛 0 | 📅 2023-09-12 - Gno syntax highlighting for Sublime Text.
 * [gnockpit](https://github.com/gnoverse/gnockpit) ⭐ 0 | 🐛 7 | 🌐 Go | 📅 2026-10-02 - A real-time web dashboard for monitoring validator node health.
 * [gnopm](https://github.com/moul/gnopm) ⭐ 0 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - A package manager for workspaces: a package's version lives in its gnomod.toml rather than in its directory name, so a bump is a one-line diff instead of a copied directory.
