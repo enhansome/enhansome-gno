@@ -19,7 +19,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -61,7 +61,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -103,7 +103,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -289,7 +289,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -331,7 +331,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -373,7 +373,7 @@
             "open_issues": 12,
             "owner": "gnolang",
             "repo": "supernova",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "blockchain",
               "gno",
@@ -609,7 +609,7 @@
             "open_issues": 7,
             "owner": "gnoverse",
             "repo": "gnockpit",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
@@ -653,7 +653,7 @@
             "id": 1309634960,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T13:45:28Z",
+            "last_commit": "2026-11-01T13:27:43Z",
             "open_issues": 42,
             "owner": "moul",
             "repo": "gno-contracts",
@@ -684,7 +684,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -932,7 +932,7 @@
             "open_issues": 0,
             "owner": "gnolang",
             "repo": "bounties",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
@@ -959,7 +959,7 @@
             "open_issues": 604,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "bft",
               "blockchain",
@@ -1098,7 +1098,7 @@
             "id": 513395287,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-31T12:18:36Z",
+            "last_commit": "2026-11-01T12:18:54Z",
             "open_issues": 8,
             "owner": "gnolang",
             "repo": "tx-exports",
@@ -1133,7 +1133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:45:49.529Z",
+    "last_updated": "2026-11-01T14:23:43.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of great gno.land resources by the community.",
@@ -1145,7 +1145,7 @@
       "open_issues": 24,
       "owner": "gnoverse",
       "repo": "awesome-gno",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "awesome",
         "awesome-list",
