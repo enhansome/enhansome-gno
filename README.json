@@ -15,11 +15,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -57,11 +57,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -99,11 +99,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -285,11 +285,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -327,11 +327,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -382,6 +382,35 @@
             ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tlin",
+          "description": "An advanced linter with extra static-analysis rules and style checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Advanced Linter for Gno",
+            "homepage": null,
+            "id": 828822221,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-13T18:11:14Z",
+            "open_issues": 32,
+            "owner": "gnoverse",
+            "repo": "tlin",
+            "stars": 14,
+            "topics": [
+              "cli",
+              "clippy-like",
+              "gno",
+              "hacktoberfest",
+              "human-readable",
+              "lint",
+              "static-analysis"
+            ]
+          },
+          "first_seen": "2026-11-11T15:28:59.623Z"
         },
         {
           "node_type": "item",
@@ -449,31 +478,6 @@
             "repo": "gnopls",
             "stars": 6,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:30:40.072Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gno.nvim",
-          "description": "Gno language support for NeoVim.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Gno.land integration for NeoVim",
-            "homepage": null,
-            "id": 904548333,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2025-01-31T21:55:41Z",
-            "open_issues": 0,
-            "owner": "x1unix",
-            "repo": "gno.nvim",
-            "stars": 5,
-            "topics": [
-              "gnolang",
-              "neovim",
-              "neovim-plugin"
-            ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
         },
@@ -653,8 +657,8 @@
             "id": 1309634960,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T15:28:11Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-11T13:27:48Z",
+            "open_issues": 54,
             "owner": "moul",
             "repo": "gno-contracts",
             "stars": 2,
@@ -680,11 +684,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -945,6 +949,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "r/docs",
+          "description": "The on-chain documentation realm with runnable examples. Quarantined in the monorepo since June 2026 and deployed on no live network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
+            "homepage": "https://gno.land/",
+            "id": 334215717,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
+            "owner": "gnolang",
+            "repo": "gno",
+            "stars": 1093,
+            "topics": [
+              "bft",
+              "blockchain",
+              "composability",
+              "concurrency",
+              "cosmos",
+              "fairness",
+              "gno",
+              "gnoland",
+              "gnolang",
+              "gnovm",
+              "golang",
+              "hacktoberfest",
+              "interpreter",
+              "proof-of-contribution",
+              "smart-contracts",
+              "tendermint",
+              "tendermint2",
+              "truth-discovery",
+              "virtual-machine",
+              "web3"
+            ]
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
+        },
+        {
+          "node_type": "item",
           "title": "Keplr Integration",
           "description": "WIP Integration with the Keplr browser extension.",
           "children": [],
@@ -955,11 +1001,11 @@
             "id": 334215717,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T02:58:13Z",
-            "open_issues": 608,
+            "last_commit": "2026-11-11T15:01:35Z",
+            "open_issues": 607,
             "owner": "gnolang",
             "repo": "gno",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "bft",
               "blockchain",
@@ -1009,6 +1055,31 @@
               "slides",
               "talks",
               "workshops"
+            ]
+          },
+          "first_seen": "2026-08-28T19:30:40.072Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gno.nvim",
+          "description": "Gno language support for NeoVim. Repository archived upstream in January 2025.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Gno.land integration for NeoVim",
+            "homepage": null,
+            "id": 904548333,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2025-01-31T21:55:41Z",
+            "open_issues": 0,
+            "owner": "x1unix",
+            "repo": "gno.nvim",
+            "stars": 5,
+            "topics": [
+              "gnolang",
+              "neovim",
+              "neovim-plugin"
             ]
           },
           "first_seen": "2026-08-28T19:30:40.072Z"
@@ -1098,7 +1169,7 @@
             "id": 513395287,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-11-10T12:22:14Z",
+            "last_commit": "2026-11-11T12:22:53Z",
             "open_issues": 8,
             "owner": "gnolang",
             "repo": "tx-exports",
@@ -1133,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:41:35.505Z",
+    "last_updated": "2026-11-11T15:28:59.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of great gno.land resources by the community.",
@@ -1141,8 +1212,8 @@
       "id": 491514628,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-05T08:37:08Z",
-      "open_issues": 25,
+      "last_commit": "2026-11-10T23:23:27Z",
+      "open_issues": 23,
       "owner": "gnoverse",
       "repo": "awesome-gno",
       "stars": 62,
@@ -1155,7 +1226,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "a23e4a3091ea0129e697cf3ed54a2ae6d2d11503",
+    "original_repository_sha": "644865a4e17a2b3af0211baedc98272ede39a9f4",
     "enhanced_repository": "enhansome/enhansome-gno",
     "enhanced_repository_description": null,
     "title": "Awesome gno with stars"
