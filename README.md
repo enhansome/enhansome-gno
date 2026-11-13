@@ -35,9 +35,9 @@ related to Gno & gno.land. It serves two main purposes:
 
 ## Official Links
 
-* [gno monorepo](https://github.com/gnolang/gno) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - The official core repo of the project, containing the core libraries, tools, and example Gno code.
-* [Plan](https://github.com/gnolang/gno/blob/master/PLAN.md) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - The foundational plan for gno.land.
-* [Philosophy](https://github.com/gnolang/gno/blob/master/PHILOSOPHY.md) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - The fundamental philosophies of gno.land.
+* [gno monorepo](https://github.com/gnolang/gno) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - The official core repo of the project, containing the core libraries, tools, and example Gno code.
+* [Plan](https://github.com/gnolang/gno/blob/master/PLAN.md) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - The foundational plan for gno.land.
+* [Philosophy](https://github.com/gnolang/gno/blob/master/PHILOSOPHY.md) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - The fundamental philosophies of gno.land.
 * [gno.land](https://gno.land/) - The official website of gno.land.
 * [docs.gno.land](https://docs.gno.land) - The official docs of gno.land.
 * [gno.land events calendar](https://gno.link/calendar) - The official gno.land Google calendar.
@@ -47,7 +47,7 @@ related to Gno & gno.land. It serves two main purposes:
 *Testnets are renamed and replaced every few weeks. This list deliberately names only mainnet; for whichever testnet is current, follow the docs link — it is the one URL that stays correct.*
 
 * [Gno networks](https://docs.gno.land/resources/gnoland-networks) - **Start here.** The canonical list: the current testnet and its RPC, staging, deployment files, and archives of every past network. Testnet tokens come from the Gno Faucet Hub, listed under Tools below.
-* [Mainnet](https://github.com/gnolang/gno/tree/chain/mainnet/misc/deployments/mainnet.gno.land) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - Chain id `gnoland-1`, live since 12 September 2026, served at gno.land. RPC `https://rpc.gno.land:443`. Real GNOT; there is no mainnet faucet.
+* [Mainnet](https://github.com/gnolang/gno/tree/chain/mainnet/misc/deployments/mainnet.gno.land) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - Chain id `gnoland-1`, live since 12 September 2026, served at gno.land. RPC `https://rpc.gno.land:443`. Real GNOT; there is no mainnet faucet.
 * [Staging](https://staging.gno.land/) - Rolling redeploy of `master`; state is best-effort and gets wiped on breaking changes.
 
 ## Apps
@@ -64,7 +64,7 @@ related to Gno & gno.land. It serves two main purposes:
 
 *Apps developed by the gno.land community.*
 
-* [Gnoswap](https://github.com/gnoswap-labs/gnoswap) ⭐ 17 | 🐛 11 | 🌐 Gno | 📅 2026-11-09 - The first DEX built on gno.land (currently in beta).
+* [Gnoswap](https://github.com/gnoswap-labs/gnoswap) ⭐ 17 | 🐛 11 | 🌐 Gno | 📅 2026-11-13 - The first DEX built on gno.land (currently in beta).
 * [dSocial](https://github.com/gnoverse/dsocial) ⭐ 9 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-10 - Experimental social apps, tools, and dApps.
 * [Gnomputer](https://github.com/moul/gnomputer) ⭐ 1 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-07 - A windowed web workstation for browsing realms, source, and live chain activity.
 * [Kourt](https://kourt.xyz) - Fact-staking courts where you stake a court's own coin on claims; the stake always returns 1x, only accuracy pays. [Source](https://github.com/jaekwon/kourt) ⭐ 1 | 🐛 1 | 🌐 Gno | 📅 2026-09-19, [realm](https://gno.land/r/g1ecsuj0q572jr0dhu29q9njtnmw03hyu7tyyvv6/kourt).
@@ -78,8 +78,8 @@ related to Gno & gno.land. It serves two main purposes:
 
 *Tools useful for developing in Gno.*
 
-* [gnodev](https://github.com/gnolang/gno/tree/master/contribs/gnodev) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - Your Gno development companion, used for local Gno development.
-* [gnobro](https://github.com/gnolang/gno/tree/master/contribs/gnobro) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - A terminal UI for browsing and exploring Gno realms, with real-time gnodev integration via WebSocket.
+* [gnodev](https://github.com/gnolang/gno/tree/master/contribs/gnodev) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - Your Gno development companion, used for local Gno development.
+* [gnobro](https://github.com/gnolang/gno/tree/master/contribs/gnobro) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - A terminal UI for browsing and exploring Gno realms, with real-time gnodev integration via WebSocket.
 * [Supernova](https://github.com/gnolang/supernova) ⭐ 18 | 🐛 12 | 🌐 Go | 📅 2026-02-23 - A stress testing tool for the Gno Tendermint2 blockchain.
 * [tlin](https://github.com/gnoverse/tlin) ⭐ 14 | 🐛 32 | 🌐 Go | 📅 2026-10-13 - An advanced linter with extra static-analysis rules and style checks.
 * [tx-indexer](https://github.com/gnolang/tx-indexer) ⭐ 11 | 🐛 10 | 🌐 Go | 📅 2026-10-28 - A TM2 (Tendermint2) chain indexer with GraphQL support.
@@ -87,7 +87,7 @@ related to Gno & gno.land. It serves two main purposes:
 * [gnopls](https://github.com/gnoverse/gnopls) ⭐ 6 | 🐛 17 | 🌐 Go | 📅 2026-09-19 - A language server providing editor features like autocompletion, hover, and go-to-definition.
 * [gno-mcp](https://github.com/gnoverse/gno-mcp) ⭐ 3 | 🐛 12 | 🌐 Go | 📅 2026-11-02 - An MCP server and agent skill connecting realms to AI coding assistants like Claude, Cursor, and Gemini CLI.
 * [gnovanity](https://github.com/gnoverse/gnovanity) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-10-30 - A command-line tool for generating vanity wallet addresses.
-* [gnoscope](https://github.com/gnoverse/gnoscope) ⭐ 2 | 🐛 15 | 🌐 Go | 📅 2026-11-05 - A fast, minimal block explorer with realm dependency graphs and usage tracking.
+* [gnoscope](https://github.com/gnoverse/gnoscope) ⭐ 2 | 🐛 15 | 🌐 Go | 📅 2026-11-13 - A fast, minimal block explorer with realm dependency graphs and usage tracking.
 * [gnopm](https://github.com/moul/gnopm) ⭐ 2 | 🐛 4 | 🌐 Go | 📅 2026-11-05 - A package manager for workspaces: a package's version lives in its gnomod.toml rather than in its directory name, so a bump is a one-line diff instead of a copied directory.
 * [Gno for Sublime Text](https://github.com/gno-playground/gno-sublime-text) ⭐ 1 | 🐛 0 | 📅 2023-09-12 - Gno syntax highlighting for Sublime Text.
 * [gnockpit](https://github.com/gnoverse/gnockpit) ⭐ 1 | 🐛 7 | 🌐 Go | 📅 2026-10-09 - A real-time web dashboard for monitoring validator node health.
@@ -102,7 +102,7 @@ related to Gno & gno.land. It serves two main purposes:
 *Resources to help you understand how to get around gno.land and use Gno.*
 
 * [Getting Started](https://github.com/gnolang/getting-started) ⭐ 3 | 🐛 3 | 🌐 Gno | 📅 2026-09-17 - A repo to help you get started with building realms in Gno.
-* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 2 | 🐛 56 | 🌐 Go | 📅 2026-11-12 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
+* [gno-contracts](https://github.com/moul/gno-contracts) ⭐ 2 | 🐛 57 | 🌐 Go | 📅 2026-11-13 - A collection of 50+ versioned, self-contained gno.land packages and realms by moul, tested against gno master.
 * [A gentle introduction to gno.land](https://www.youtube.com/watch?v=hTGeG0z09NU\&t=135s) - An intro presentation into gno.land (2024).
 * [Peer Dev Learning](https://www.youtube.com/playlist?list=PLJZrQikyfMc-kBojXgAojOz4UQPuq4DiY) - A YouTube playlist of gno.land development tutorials by Peer Dev.
 
@@ -110,10 +110,10 @@ related to Gno & gno.land. It serves two main purposes:
 
 *Connecting web2 to the gno.land blockchain.*
 
-* [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - A Gno-Go package, allowing you to connect to gno.land chains via Go programs at will.
+* [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - A Gno-Go package, allowing you to connect to gno.land chains via Go programs at will.
 * [tm2-js-client](https://github.com/gnolang/tm2-js-client) ⭐ 12 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-09 - A TM2 JavaScript client library.
 * [gnonative](https://github.com/gnolang/gnonative) ⭐ 10 | 🐛 2 | 🌐 C# | 📅 2026-11-10 - A framework for building and porting gno.land dApps in your native language, with React Native and Expo support.
-* [gnolang/blog](https://github.com/gnolang/blog/tree/main/cmd/gnoblog-cli) ⭐ 9 | 🐛 25 | 🌐 Go | 📅 2026-10-30 - `r/gnoland/blog` client, or how to create custom `gnokey` clients, using the [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 package.
+* [gnolang/blog](https://github.com/gnolang/blog/tree/main/cmd/gnoblog-cli) ⭐ 9 | 🐛 25 | 🌐 Go | 📅 2026-10-30 - `r/gnoland/blog` client, or how to create custom `gnokey` clients, using the [gnoclient](https://github.com/gnolang/gno/tree/master/gno.land/pkg/gnoclient) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 package.
 * [gno-js-client](https://github.com/gnolang/gno-js-client) ⭐ 2 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-07 - A Gno JavaScript client library, built upon `tm2-js` with additional Gno-specific functionality.
 
 ## Frameworks
@@ -160,14 +160,14 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 
 *Older, outdated, or archived items.*
 
-* [r/docs](https://github.com/gnolang/gno/tree/master/examples/quarantined/gno.land/r/docs/home) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - The on-chain documentation realm with runnable examples. Quarantined in the monorepo since June 2026 and deployed on no live network.
-* [Keplr Integration](https://github.com/gnolang/gno/pull/154) ⭐ 1,093 | 🐛 615 | 🌐 Go | 📅 2026-11-12 - WIP Integration with the Keplr browser extension.
+* [r/docs](https://github.com/gnolang/gno/tree/master/examples/quarantined/gno.land/r/docs/home) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - The on-chain documentation realm with runnable examples. Quarantined in the monorepo since June 2026 and deployed on no live network.
+* [Keplr Integration](https://github.com/gnolang/gno/pull/154) ⭐ 1,093 | 🐛 613 | 🌐 Go | 📅 2026-11-13 - WIP Integration with the Keplr browser extension.
 * ["go -> gno" presentation](https://github.com/gnolang/workshops/tree/main/presentations/2023-06-26--go-to-gno--schollz) ⭐ 13 | 🐛 14 | 🌐 Gno | 📅 2026-09-17 - "Things I wish I knew when I started out with Gno, when coming from a Go background" by Zack Scholl (2023).
 * [gno.nvim](https://github.com/x1unix/gno.nvim) ⚠️ Archived - Gno language support for NeoVim. Repository archived upstream in January 2025.
 * [Gno to Discord](https://github.com/PoCInnovation/PoCLab) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2022-06-11 - Send notifications on Discord for new content on the `r/demo/boards` realm.
 * [Hello Gno!](https://github.com/xplrz/gnoland-workshop) ⭐ 5 | 🐛 2 | 🌐 Dockerfile | 📅 2023-01-22 - A step-by-step workshop on Gno and gno.land's main features.
 * [meme.land](https://github.com/gnoverse/memeland) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-17 - An image sharing application built using Gno, React and Vue. The hosted front end no longer reaches a chain.
-* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 8 | 🌐 Go | 📅 2026-11-12 - Archived transaction data from past and present gno.land networks, one directory per network.
+* [tx-exports](https://github.com/gnolang/tx-exports) ⭐ 1 | 🐛 8 | 🌐 Go | 📅 2026-11-13 - Archived transaction data from past and present gno.land networks, one directory per network.
 * [From Zero to gno.land Hero](https://github.com/leohhhn/gno-fzgh/blob/main/README.md) ⭐ 1 | 🐛 0 | 📅 2024-08-11 - A complete 0 to 1 tutorial on building your first dApp in gno.land (2024).
 * [Gno Studio Connect](https://gno.studio/connect) - A tool that makes interaction with Gno applications simple. Its network selector only offers retired testnets, so it cannot reach mainnet.
 * The Portal Loop - The rolling testnet that used to serve the gno.land homepage; renamed to Staging, and gno.land now serves mainnet.
@@ -178,4 +178,4 @@ are awesome. You could [vote for them](https://github.com/gnoverse/awesome-gno/p
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
